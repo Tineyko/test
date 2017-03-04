@@ -1,0 +1,1 @@
+to je tekstovna README datoteka
